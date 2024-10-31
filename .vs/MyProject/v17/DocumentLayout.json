@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|y:\\groups\\group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\myproject\\myproject\\controllers\\apartmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|solutionrelative:myproject\\controllers\\apartmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|y:\\groups\\group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\myproject\\myproject\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|solutionrelative:myproject\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|y:\\groups\\group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\myproject\\myproject\\controllers\\renterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|solutionrelative:myproject\\controllers\\renterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|y:\\groups\\group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\myproject\\myproject\\entities\\renters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|solutionrelative:myproject\\entities\\renters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|y:\\groups\\group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\myproject\\myproject\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|solutionrelative:myproject\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|y:\\groups\\group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\myproject\\myproject\\servies\\apartmentsservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|solutionrelative:myproject\\servies\\apartmentsservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|y:\\groups\\group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\myproject\\myproject\\servies\\clientsservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|solutionrelative:myproject\\servies\\clientsservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|y:\\groups\\group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\myproject\\myproject\\servies\\rentersservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|solutionrelative:myproject\\servies\\rentersservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|y:\\groups\\group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\myproject\\myproject\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|solutionrelative:myproject\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|y:\\groups\\group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\myproject\\myproject\\entities\\apartments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|solutionrelative:myproject\\entities\\apartments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|y:\\groups\\group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\myproject\\myproject\\vacationapartments.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|solutionrelative:myproject\\vacationapartments.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|y:\\groups\\group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\myproject\\myproject\\landlord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|solutionrelative:myproject\\landlord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|y:\\groups\\group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\myproject\\myproject\\vacationapartments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACB38D0-20BE-4DCA-B7D4-6E1E5CD1952C}|MyProject\\VacationApartments.csproj|solutionrelative:myproject\\vacationapartments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "MyProject\\Controllers\\ClientsController.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "MyProject\\Controllers\\ClientsController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:23:58.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentersController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Controllers\\RentersController.cs",
+              "RelativeDocumentMoniker": "MyProject\\Controllers\\RentersController.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Controllers\\RentersController.cs",
+              "RelativeToolTip": "MyProject\\Controllers\\RentersController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAIAxwDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:18:47.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Renters.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Entities\\Renters.cs",
+              "RelativeDocumentMoniker": "MyProject\\Entities\\Renters.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Entities\\Renters.cs",
+              "RelativeToolTip": "MyProject\\Entities\\Renters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:16:26.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "MyProject\\Entities\\Client.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Entities\\Client.cs",
+              "RelativeToolTip": "MyProject\\Entities\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:14:30.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApartmentController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Controllers\\ApartmentController.cs",
+              "RelativeDocumentMoniker": "MyProject\\Controllers\\ApartmentController.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Controllers\\ApartmentController.cs",
+              "RelativeToolTip": "MyProject\\Controllers\\ApartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:59:08.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApartmentsServies.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Servies\\ApartmentsServies.cs",
+              "RelativeDocumentMoniker": "MyProject\\Servies\\ApartmentsServies.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Servies\\ApartmentsServies.cs",
+              "RelativeToolTip": "MyProject\\Servies\\ApartmentsServies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:41:16.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientsServies.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Servies\\ClientsServies.cs",
+              "RelativeDocumentMoniker": "MyProject\\Servies\\ClientsServies.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Servies\\ClientsServies.cs",
+              "RelativeToolTip": "MyProject\\Servies\\ClientsServies.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:41:27.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RentersServies.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Servies\\RentersServies.cs",
+              "RelativeDocumentMoniker": "MyProject\\Servies\\RentersServies.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Servies\\RentersServies.cs",
+              "RelativeToolTip": "MyProject\\Servies\\RentersServies.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:41:40.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Address.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "MyProject\\Entities\\Address.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Entities\\Address.cs",
+              "RelativeToolTip": "MyProject\\Entities\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:31:00.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Apartments.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Entities\\Apartments.cs",
+              "RelativeDocumentMoniker": "MyProject\\Entities\\Apartments.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\Entities\\Apartments.cs",
+              "RelativeToolTip": "MyProject\\Entities\\Apartments.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:03:17.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VacationApartments.csproj",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\VacationApartments.csproj",
+              "RelativeDocumentMoniker": "MyProject\\VacationApartments.csproj",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\VacationApartments.csproj",
+              "RelativeToolTip": "MyProject\\VacationApartments.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAWwAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T17:11:04.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "landlord.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\landlord.cs",
+              "RelativeDocumentMoniker": "MyProject\\landlord.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\landlord.cs",
+              "RelativeToolTip": "MyProject\\landlord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:10:41.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VacationApartments.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\VacationApartments.cs",
+              "RelativeDocumentMoniker": "MyProject\\VacationApartments.cs",
+              "ToolTip": "Y:\\Groups\\Group_3\\\u05D8\u05D5\u05E8\u05E6\u05D9\u05DF \u05D7\u05D9\u05D4\\dot net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\MyProject\\MyProject\\VacationApartments.cs",
+              "RelativeToolTip": "MyProject\\VacationApartments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:53:51.457Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
